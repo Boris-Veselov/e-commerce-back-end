@@ -59,12 +59,12 @@ router.put('/:id', (req, res) => {
         id: req.params.id
       }
     })
-    .then(dbcategoryData => {
-      if (!dbcategoryData) {
+    .then(dbCategoryData => {
+      if (!dbCategoryData) {
         res.status(404).json({ message: 'No Category found with that ID.' });
         return;
       }
-      res.json(dbcategoryData);
+      res.json(dbCategoryData);
     })
     .catch(err => {
       console.log(err);
@@ -79,12 +79,12 @@ router.delete('/:id', (req, res) => {
       id: req.params.id
     }
   })
-    .then(dbcategoryData => {
-      if (!dbcategoryData) {
+    .then(dbCategoryData => {
+      if (!dbCategoryData) {
         res.status(404).json({ message: 'No Category found with that ID.' });
         return;
       }
-      res.json(dbcategoryData);
+      res.json(dbCategoryData);
     })
     .catch(err => {
       console.log(err);
