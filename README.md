@@ -9,6 +9,8 @@ so that the company can compete with other e-commerce companies
 
 # Built With
 
+* MySQL
+* Sequelize
 * Node.js
 * Express.js
 * Javascript
