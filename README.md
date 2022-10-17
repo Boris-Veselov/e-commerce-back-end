@@ -1,5 +1,3 @@
-# Project name: 
-
 ## Title 
 
 E-commerce back end
