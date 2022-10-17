@@ -1,11 +1,22 @@
 # Project name: 
 
+## Title 
+
 E-commerce back end
 
-# Purpose
+## Table of Contents:
+  
+* [Description](#description)
+* [Technologies](#technologies)
+* [Preview](#preview)
+* [Website-link](#website-link)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [license](#license)
+* [Contact](#contact)
 
-Back end for an e-commerce website that uses the latest technologies
-so that the company can compete with other e-commerce companies
+## Description
 
 # Built With
 
@@ -25,6 +36,16 @@ so that the company can compete with other e-commerce companies
 https://user-images.githubusercontent.com/96749114/166159166-143d2e78-f5e3-415b-9b6d-81e4f45d4065.mp4
 
 
-# Contribution
+## Contribution
 
-Made by Boris Veselov
+Boris Veselov
+
+## License
+  
+MIT license
+
+## Contact
+
+borisveselov@yahoo.com
+github.com/boris-veselov
+
